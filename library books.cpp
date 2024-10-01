@@ -1,3 +1,9 @@
+/*
+//progam to calculate the fine rate for overdue library books
+Author:Jackson Njenga
+Reg No:CT102/G/21788/23
+*/
+
 #include<stdio.h>
 int main()
 {
